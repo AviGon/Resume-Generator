@@ -1,0 +1,9 @@
+body{
+    background-color: lightgrey;
+}
+#cv-template{
+    display: none;
+} 
+.background{
+    background-color: lightcyan;
+}
